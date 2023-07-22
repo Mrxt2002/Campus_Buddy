@@ -1,3 +1,8 @@
+Access this website from here : https://axios-buy-sell-platform.vercel.app/
+
+
+
+
 Steps of Creating the project(step by step):
 1. Installing vite, react, tailwind
 2. Working on Navbar component - Importing the flowbite CDN in the index.html, then using flowbite navbar component
